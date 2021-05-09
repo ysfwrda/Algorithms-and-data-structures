@@ -1,0 +1,37 @@
+Red Black Tree Results
+Text1
+Depth:0 Frequency1
+Depth:1 Frequency2
+Depth:2 Frequency4
+Depth:3 Frequency8
+Depth:4 Frequency16
+Depth:5 Frequency36
+Depth:6 Frequency79
+Depth:7 Frequency154
+Depth:8 Frequency334
+Depth:9 Frequency696
+Depth:10 Frequency1257
+Depth:11 Frequency1446
+Depth:12 Frequency936
+Depth:13 Frequency404
+Depth:14 Frequency89
+Depth:15 Frequency11
+
+Text 2
+Depth:0 Frequency1
+Depth:1 Frequency2
+Depth:2 Frequency4
+Depth:3 Frequency8
+Depth:4 Frequency17
+Depth:5 Frequency38
+Depth:6 Frequency75
+Depth:7 Frequency156
+Depth:8 Frequency325
+Depth:9 Frequency699
+Depth:10 Frequency1239
+Depth:11 Frequency1500
+Depth:12 Frequency947
+Depth:13 Frequency333
+Depth:14 Frequency65
+Depth:15 Frequency9
+Depth:16 Frequency1

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Records
+comment0.text=\r\n\ Class\ Records\:\ \r\n\ Test\ of\ stability\ of\ divers\ sorting\ algorithms.<br>\r\n\r\n\ @author\ Wolfgang\ Renz\r\n\ @version\ Nov.\ 3,\ 2020\r\n
+comment1.params=size
+comment1.target=Records(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Records\r\n
+comment10.params=a
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ init()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ shuffle()
+comment5.params=
+comment5.target=void\ insertionSort()
+comment6.params=
+comment6.target=void\ selectionSort()
+comment7.params=
+comment7.target=void\ mergeSort()
+comment8.params=
+comment8.target=void\ isSorted()
+comment9.params=
+comment9.target=void\ isPartitioned()
+numComments=11

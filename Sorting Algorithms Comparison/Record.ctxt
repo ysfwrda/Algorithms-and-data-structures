@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Record
+comment0.text=\r\n\ Class\ Record\ defines\ simple\ records\ consisting\ of\ an\ integer\ and\ a\ string.\ <br>\r\n\ Sorting\ shall\ be\ done\ with\ respect\ to\ the\ integer.<br>\r\n\ Test\ of\ stability\ of\ divers\ sorting\ algorithms.<br>\r\n\r\n\ @author\ Wolfgang\ Renz\r\n\ @version\ Nov.\ 3,\ 2020\r\n
+comment1.params=i\ str
+comment1.target=Record(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Record\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=rec
+comment3.target=int\ compareTo(Record)
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=4
